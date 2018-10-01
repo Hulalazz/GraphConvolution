@@ -2,7 +2,7 @@
 
 ## Info
 
-PyTorch implementation for [**Kipf & Welling (2017). Semi-Supervised Classification with Graph Convolutional Networks. ICLR**](http://arxiv.org/abs/1609.02907).
+PyTorch implementation for [**Kipf & Welling (2017). Semi-Supervised Classification with Graph Convolutional Networks. ICLR**](http://arxiv.org/abs/1609.02907). The data comes from the first author's repo [here](https://github.com/tkipf/gcn/tree/master/gcn/data).
 
 ## Dependencies
 
